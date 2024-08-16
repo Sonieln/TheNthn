@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nthn</h1>
-<h3 align="center">Im a very newbie at programmer :)</h3>
+<h3 align="center">Im a silly ahh programmer :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenthn&label=Profile%20views&color=0e75b6&style=flat" alt="thenthn" /> </p>
 
